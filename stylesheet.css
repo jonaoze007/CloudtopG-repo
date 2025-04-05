@@ -13,12 +13,12 @@
     display: flex;
     font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol, "Noto Color Emoji";
     font-size: medium;
-    margin: 0;
+    margin: 35px;
     padding: 20px;
     justify-content: flex-start;
     align-items: baseline;
     min-height: 80px;
-    /* border: 2px dashed rgb(12, 11, 11);  */
+    border: 2px dashed rgb(12, 11, 11); 
 }
 
 .top-left {
@@ -62,7 +62,7 @@
 }
 
 .image-container img {
-    width: 50%;
+    width: 100%;
     height: auto;
     margin-left: 0;
 }
