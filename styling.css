@@ -186,7 +186,7 @@ footer {
     gap: 100px;
     width: 80%;
     height: auto;
-    border: 3px dotted black; 
+    /* border: 3px dotted black;  */
     padding: 3px;
     margin-left: 150px;
     text-align: center;
