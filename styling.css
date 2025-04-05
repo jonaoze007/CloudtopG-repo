@@ -199,6 +199,9 @@ footer {
     gap: 100px;
     width: 80%;
 }
+.row-box2 {
+    align-content: end;
+}
 
 .column {
     justify-content: left;
