@@ -76,7 +76,7 @@ form input {
 }
 
 button {
-    width: 100%;
+    /* width: 100%; */
     padding: 10px;
     background-color: #007BFF;
     color: white;
@@ -183,3 +183,46 @@ body {
     .input-field:focus {
         border: 1px solid dodgerblue;
     }
+
+    
+    .main6 img {
+        /* border: 2px dashed rgb(4, 0, 255); */
+        width: 150px;
+        height: 250px;
+        text-align: center;
+        margin-right: 10px;
+        gap: 100px;
+    
+        }
+
+
+                .myDiv1 {
+                    /* border: 5px outset red; */
+                    background-color: #000637;
+                    align-items: left;
+                  
+        
+        
+                }
+        
+                .myDiv2 {
+                    /* border: 5px outset red; */
+                    background-color: #ffad00;
+                    text-align: left;
+                   
+                }
+        
+                .myDiv3 {
+                    /* border: 5px outset red; */
+                    background-color: #bbbbf2;
+                    text-align: left;
+                   
+                }
+        
+                .myDiv4 {
+                    /* border: 5px outset red; */
+                    background-color: #5ed6b3;
+                    text-align: left;
+                    
+        
+                }
